@@ -30,6 +30,9 @@ To know more about [`OpenCV Python`](https://opencv.org/) Click [Here](https://o
 
 
 
+#### OutPut:
+[![OpenCVOutput](ss/ss.PNG)](https://apparky.vercel.app/)
+
 
 
 
